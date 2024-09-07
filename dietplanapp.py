@@ -97,7 +97,8 @@ st.title("")
 st.title('AI-Nutritionist Doctor 💪❤️ ')
 
 st.markdown("""
-Welcome to GymGPT—where your dream body isn’t built overnight, but through epic dedication and a dash of sarcasm. Forget quick fixes; we’re all about hard work, smart choices, and a no-nonsense attitude. Whether you want superhero strength or just to look awesome, we’re here to fuel your journey. Ready to embrace the grind? Let’s get started!
+Welcome to GymGPT—where your dream body isn’t built overnight, but through epic dedication. Forget quick fixes; we’re all about hard work, smart choices, and a no-nonsense attitude. 
+Whether you want superhero strength or just to look awesome, we’re here to fuel your journey. Ready to embrace the grind? Let’s get started!
 """)
 
 if submit:
